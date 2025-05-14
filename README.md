@@ -20,6 +20,7 @@ What is an ERD Diagram? (Entity Relationship Diagram)
 
 In DBMS, the ER Diagram of the pharmacy management system is also known as the system’s database design. 
 It is the graphical depiction of relationships between all the entities involved in the system. Its major components are Entities, Attributes, and Relationships.
+The ERD also shows both Primary (PK) and Foreign keys (FK) of the tables, and how they relate : One to Many, Many to One
 
 Below is the Pharmacy Management System ER Diagram. It shows all of the database tables and the connections between customers, pharmacists, medicines, purchasing, sales, and reports.
   - _Tools used : draw.io_
@@ -32,4 +33,5 @@ Below is the Pharmacy Management System ER Diagram. It shows all of the database
   - **Below is a screenshot from MySQL Workbech showing the table columns (6) :**
     <img width="772" alt="Pharmacy Columns" src="https://github.com/user-attachments/assets/3046cd84-58d6-4c19-a35c-805bdb9d8444" />
 
+_Credits : Franco Juma_
 
